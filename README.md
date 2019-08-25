@@ -24,3 +24,5 @@
 		- ssh-keygen
 		- pbcopy < ~/.sshid_rsa.pub
   - copy the public key on github by create new key @https://github.com/settings/keys
+3. Install https://nodejs.org/en/ and NPM
+
